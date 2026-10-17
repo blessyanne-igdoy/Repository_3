@@ -1,3 +1,5 @@
 Git activity
 This is my Git activity.
 Added more information in the feature branch.
+
+Edited directly on GitHub.
